@@ -22,4 +22,4 @@ for i in range(0, tamaño):
 for i in range(0, tamaño):
     matriz[4].append(random.randint(1,100))
 
-print(matriz)
+#print(f"matriz{matriz[0]}\n{matriz[1]}")
